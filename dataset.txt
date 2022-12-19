@@ -1,0 +1,427 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/pkKUW6wk2yfPc66YF7647ARi6uv.jpg",
+            "first_air_date": "2009-10-05",
+            "genre_ids": [
+                10764
+            ],
+            "id": 114439,
+            "media_type": "tv",
+            "name": "Let's Make a Deal",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Let's Make a Deal",
+            "overview": "",
+            "popularity": 763.146,
+            "poster_path": "/8lQkzJCwPpB0P6GieQeojUOW6PU.jpg",
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "backdrop_path": "/fMvRiykSZrb5KCQnHxe3dNN5XKX.jpg",
+            "first_air_date": "2022-06-27",
+            "genre_ids": [
+                18
+            ],
+            "id": 194619,
+            "media_type": "tv",
+            "name": "A Family Affair",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "A Family Affair",
+            "overview": "",
+            "popularity": 532.645,
+            "poster_path": "/gkap4pWN722E0UK9WNL2vjGnAtw.jpg",
+            "vote_average": 3.4,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/ggPjnOA5sap6wyuAGUY7kwRseEi.jpg",
+            "first_air_date": "1983-01-23",
+            "genre_ids": [
+                10759
+            ],
+            "id": 1516,
+            "media_type": "tv",
+            "name": "The A-Team",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The A-Team",
+            "overview": "",
+            "popularity": 159.471,
+            "poster_path": "/iJsueZM8TqQzeB55tol4mnyQzb9.jpg",
+            "vote_average": 7.4,
+            "vote_count": 766
+        },
+        {
+            "backdrop_path": "/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg",
+            "first_air_date": "2015-04-20",
+            "genre_ids": [
+                18
+            ],
+            "id": 62455,
+            "media_type": "tv",
+            "name": "Vis a vis",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Vis a vis",
+            "overview": "يتلاعب بها حبيبها في قضية اختلاس أموال لصالحه فينتهي بها الحال في السجن، وليس أمامها سوى أن تكتسب بسرعة القدرة على النجاة في عالم جديد قاسٍ.",
+            "popularity": 136.854,
+            "poster_path": "/gctQfAuQbQRjfgBbWm3UW4XeVRa.jpg",
+            "vote_average": 8,
+            "vote_count": 2223
+        },
+        {
+            "backdrop_path": "/aScn0gmLiwfz8fGSm8nwAPgo0pD.jpg",
+            "first_air_date": "2022-05-06",
+            "genre_ids": [
+                10759,
+                10765,
+                18
+            ],
+            "id": 128010,
+            "media_type": "tv",
+            "name": "Bienvenidos a Edén",
+            "origin_country": [
+                "ES",
+                "KN"
+            ],
+            "original_language": "es",
+            "original_name": "Bienvenidos a Edén",
+            "overview": "",
+            "popularity": 94.078,
+            "poster_path": "/iZSmq8iOupIIirR7rsvLqp5Ghi2.jpg",
+            "vote_average": 7.1,
+            "vote_count": 143
+        },
+        {
+            "backdrop_path": "/q79GW419UwQPJuQ3Gxvxu56QY7R.jpg",
+            "first_air_date": "2003-09-22",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 2691,
+            "media_type": "tv",
+            "name": "Two and a Half Men",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Two and a Half Men",
+            "overview": "",
+            "popularity": 245.161,
+            "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+            "vote_average": 7.4,
+            "vote_count": 2448
+        },
+        {
+            "backdrop_path": "/oxF9YJcBJzDlpdtDG0FyfMisn1E.jpg",
+            "first_air_date": "2002-09-26",
+            "genre_ids": [
+                80,
+                9648,
+                10759,
+                18
+            ],
+            "id": 2593,
+            "media_type": "tv",
+            "name": "Without a Trace",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Without a Trace",
+            "overview": "",
+            "popularity": 84.518,
+            "poster_path": "/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg",
+            "vote_average": 7.3,
+            "vote_count": 200
+        },
+        {
+            "backdrop_path": "/aM9riYvt5kPkX6ZrNNPL48ScP6d.jpg",
+            "first_air_date": "2011-10-23",
+            "genre_ids": [
+                18,
+                10765
+            ],
+            "id": 39272,
+            "media_type": "tv",
+            "name": "Once Upon a Time",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Once Upon a Time",
+            "overview": "",
+            "popularity": 129.465,
+            "poster_path": "/49qD372jeHUTmdNMGJkjCFZdv9y.jpg",
+            "vote_average": 7.3,
+            "vote_count": 1771
+        },
+        {
+            "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+            "first_air_date": "2017-11-02",
+            "genre_ids": [
+                10759,
+                80,
+                18
+            ],
+            "id": 71790,
+            "media_type": "tv",
+            "name": "S.W.A.T.",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "S.W.A.T.",
+            "overview": "يتتبع المسلسل حياة ملازم من القوات الخاصة، ولد وترعرع في لوس أنجلوس، ويسلط الضوء على صراعه الداخلي بين وفائه تجاه الشارع والحياة في مدينته، وبين زملائه الضباط، وذلك بعد توليه قيادة وحدة خاصة مدربة تدريبًا عاليًا، والتي تعتبر المحطة الأخيرة لكشف الجرائم في لوس أنجلوس.",
+            "popularity": 308.162,
+            "poster_path": "/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+            "vote_average": 8.1,
+            "vote_count": 1058
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                878
+            ],
+            "id": 1010821,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Groot Takes a Bath",
+            "overview": "يحتاج الجميع إلى بعض الوقت بمفردهم للاسترخاء والاغتسال ، لكن الأمور تسير بشكل مختلف تماما عندما تكون طفلا صغيرا في فلورا كولوسي.",
+            "popularity": 275.162,
+            "poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+            "release_date": "2022-08-10",
+            "title": "Groot Takes a Bath",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 159
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/721Tx7LljbIIJGfhV2uSvHF4Prb.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 888311,
+            "media_type": "movie",
+            "original_language": "es",
+            "original_title": "Voy a pasármelo bien",
+            "overview": "",
+            "popularity": 231.984,
+            "poster_path": "/lcThPhR67aaPEu5s8EGrkcL0w3m.jpg",
+            "release_date": "2022-08-05",
+            "title": "Voy a pasármelo bien",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 14
+        },
+        {
+            "backdrop_path": "/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+            "first_air_date": "2013-10-06",
+            "genre_ids": [
+                16
+            ],
+            "id": 60761,
+            "media_type": "tv",
+            "name": "ダイヤのA",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ダイヤのA",
+            "overview": "",
+            "popularity": 67.95,
+            "poster_path": "/qsqe7WKYK3Knfr1MYTb1QZ0M0rO.jpg",
+            "vote_average": 8.1,
+            "vote_count": 47
+        },
+        {
+            "backdrop_path": "/8xkNDSn7UAVcffiH3c4dDV83pZ2.jpg",
+            "first_air_date": "2013-04-23",
+            "genre_ids": [
+                9648,
+                18,
+                80
+            ],
+            "id": 66627,
+            "media_type": "tv",
+            "name": "Meurtres à...",
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Meurtres à...",
+            "overview": "",
+            "popularity": 29.125,
+            "poster_path": "/8GFo08d66LTJOEFtRYfrsXH6quU.jpg",
+            "vote_average": 7.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5CLcdmZJgYpwF46n7rtgWpSIQcz.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 913851,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "A Love Song",
+            "overview": "تعتاد (فاي) على حياة الترحال والتخييم في الغرب الأمريكي بمفردها، ومراقبة النجوم وصيد الطيور، ولكنها تنتظر ظهور (ليتو) صديقها القديم، وتتخبط (فاي) في اكتشاف ما هي حقيقة نواياه.",
+            "popularity": 138.137,
+            "poster_path": "/uu3FvDIV9Bw7I2owLUR44IBLH0D.jpg",
+            "release_date": "2022-07-29",
+            "title": "أغنية حب",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Z6Ey7hMdK42RIDdR0Ogpr364Ze.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 921643,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "A Jazzman's Blues",
+            "overview": "في أقصى الجنوب إبّان أربعينيات القرن الماضي، يحاول الحبيبان عاثرا الحظّ \"بايو\" و\"ليان\" أن يجتمع شملهما من جديد في عالم محفوف بالمخاطر وعازم على أن يفرّقهما.",
+            "popularity": 86.607,
+            "poster_path": "/dHK9cpEX6XsBxGlzOIFbTkYcrBp.jpg",
+            "release_date": "2022-09-16",
+            "title": "موسيقى رجل الجاز الحزينة",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "id": 9487,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "A Bug's Life",
+            "overview": "يحكي الفيلم عن إحدى مستعمرات النمل التي يسيطر عليها عصابة من الجراد الشرير والتي تفرض على المستعمرة جمع الحبوب لصالحها مما يفرض على النمل عبئا إضافيا لجمع الحبوب للجراد ثم لنفسه قبل حلول موسم المطر الذي يلزمون فيه المستعمرة. إلا أن \"فليك\" النملة الذكية وبطل الفيلم يقرر الرحيل عن المستعمرة والذهاب إلى مدينة مجاورة من أجل الاستعانة بحشرات مقاتلين لمعاونة قومه على نبذ سيطرة الجراد عليهم. ويوافق حكماء النمل على رحيل \"فليك\" من أجل التخلص من متاعبه التي يسببها دائما بواسطة أختراعاته",
+            "popularity": 83.399,
+            "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+            "release_date": "1998-11-25",
+            "title": "حياة حشرة",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 7942
+        },
+        {
+            "backdrop_path": "/jVFbvke5EMr8FKVyaiHPCuLQJbw.jpg",
+            "first_air_date": "2008-06-02",
+            "genre_ids": [
+                10766,
+                18,
+                9648
+            ],
+            "id": 7448,
+            "media_type": "tv",
+            "name": "A Favorita",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "A Favorita",
+            "overview": "",
+            "popularity": 38.697,
+            "poster_path": "/19aeBWMyI8nZczAAbcF1oMUZLMk.jpg",
+            "vote_average": 7.5,
+            "vote_count": 10
+        },
+        {
+            "backdrop_path": "/cfUFzAiU6Jgc8GfZJcaUiDCJu4r.jpg",
+            "first_air_date": "1997-02-17",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 41811,
+            "media_type": "tv",
+            "name": "A Indomada",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "A Indomada",
+            "overview": "",
+            "popularity": 38.637,
+            "poster_path": "/sdvXkBjB8ykF5uWYLmClUsWPoGa.jpg",
+            "vote_average": 5,
+            "vote_count": 4
+        },
+        {
+            "backdrop_path": "/62OzZXACdMjIiaYk8e6IOB0xQcl.jpg",
+            "first_air_date": "1972-09-17",
+            "genre_ids": [
+                10768,
+                18,
+                35
+            ],
+            "id": 918,
+            "media_type": "tv",
+            "name": "M*A*S*H",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "M*A*S*H",
+            "overview": "",
+            "popularity": 73.395,
+            "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+            "vote_average": 7.9,
+            "vote_count": 483
+        },
+        {
+            "backdrop_path": "/2oiLsxKo72UekCXEOtSEzSKy3XE.jpg",
+            "first_air_date": "2016-07-05",
+            "genre_ids": [
+                10766
+            ],
+            "id": 66825,
+            "media_type": "tv",
+            "name": "A Terra Prometida",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "A Terra Prometida",
+            "overview": "",
+            "popularity": 58.225,
+            "poster_path": "/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg",
+            "vote_average": 7.7,
+            "vote_count": 419
+        }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+}
